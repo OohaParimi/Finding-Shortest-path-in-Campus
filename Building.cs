@@ -2,9 +2,6 @@
 // Course: CSCI 651
 // Instructor: Hou
 //
-// Programmers: Adam Guidarini, Ooha Parimi, Daniel Widing
-// Z-IDs:       Z-1891236     , Z-1911845  , Z-1838064
-//
 // Project: Term Final Project
 //
 // File: Building.cs
